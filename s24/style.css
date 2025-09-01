@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: o;
+}
+
+circle {
+  background-color: 000;
+  width: 100%;
+  height: 100px;
+  border-radius: 50px;
+}
